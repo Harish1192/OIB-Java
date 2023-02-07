@@ -1,3 +1,3 @@
 # OIB-Java
 Number Guessing Game
-ATM Interface
+and ATM Interface
